@@ -1,0 +1,10 @@
+fastapi==0.135.1
+uvicorn[standard]==0.41.0
+python-multipart==0.0.21
+
+opencv-python==4.9.0.80
+numpy==1.26.4
+imutils==0.5.4
+
+tensorflow==2.14.0
+h5py==3.15.1
