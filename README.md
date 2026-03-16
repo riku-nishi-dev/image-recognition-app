@@ -47,7 +47,7 @@
 ## ディレクトリ構成
 
 ```text
-meter_reader_torch/
+image-recognition-app/
 ├─ pyproject.toml
 ├─ README.md
 ├─ requirements.txt
