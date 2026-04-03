@@ -40,7 +40,7 @@
 
 ##デモ動画
 
-![使用動画](demo/demo_video.gif)
+![使用動画](demo/demo.gif)
 
 ---
 
